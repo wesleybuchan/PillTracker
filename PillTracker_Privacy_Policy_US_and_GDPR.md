@@ -203,7 +203,7 @@ To ask a privacy question, exercise a privacy right, submit an authorized-agent 
 
 **Wesley Buchan**  
 Owner, PillTracker  
-Email: [Insert privacy contact email address]
+Email: wesleybuchan@gmail.com
 
 Please include enough information for us to understand and respond to your request. We may ask for information necessary to verify your identity or authority before completing a request.
 
